@@ -1,2 +1,2 @@
 # E-LABOR8
-MIC
+Picture Appearance on Word Recognition is now functional on a manual matter
